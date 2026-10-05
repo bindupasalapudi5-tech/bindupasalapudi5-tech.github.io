@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Pasalapudi Bindu Sailaja**, an AI/ML engineer who builds and deploys end-to-end machine learning and NLP applications. It is a single-page site that works on phones, tablets, and desktops.
 
-**Live site:** https://github.com/bindupasalapudi5-tech/bindupasalapudi5-tech.github.io
+**Live site:** 
 
 ## Features
 
